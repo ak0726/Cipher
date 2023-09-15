@@ -1,0 +1,7 @@
+1. to run the program first navigate to the folder using terminal and eun the below command
+
+g++ -std=c++17 Cipher.cpp -o cipher_program
+
+2. After the above command run the below command
+
+./cipher_program
